@@ -1,0 +1,30 @@
+Package: dtlg.data
+Type: Package
+Title: Benchmark Data for the 'dtlg' Package
+Version: 0.1.9000
+Authors@R: c(
+    person(
+        given = "Max", family = "Ebenezer-Brown",
+        email = "max.ebenezer-brown@ascent.io",
+        role = "aut"
+        ),
+    person(
+      "Ramiro", "Magno",
+      role = c("aut", "cre"),
+      email = "ramiro.morgado@ascent.io",
+      comment = c(ORCID = "0000-0001-5226-3441")
+    ),
+    person(
+      "Ascent Digital Services",
+      role = c("cph", "fnd"),
+      email = NULL,
+      comment = "https://www.ascent.io"
+    )
+  )
+Description: A set of datasets to support benchmarking with the package dtlg.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports: 
+    tibble
