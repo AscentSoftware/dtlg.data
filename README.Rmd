@@ -29,3 +29,21 @@ benchmarking of `{dtlg}` functions.
 pak::pak("AscentSoftware/dtlg.data")
 ```
 
+## Usage
+
+```{r}
+library(dtlg.data)
+
+# Check available datasets.
+datasets
+
+# Load the small ADSL dataset into memory.
+dataset("adsl_small")
+
+# Load the large ADSL dataset into memory.
+# dataset("adsl_large")
+
+# Load the ADAE dataset
+# dataset("adae")
+```
+
