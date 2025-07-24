@@ -28,3 +28,5 @@ LazyData: true
 RoxygenNote: 7.3.2
 Imports: 
     tibble
+URL: https://ascentsoftware.github.io/dtlg.data/
+BugReports: https://github.com/AscentSoftware/dtlg.data/issues

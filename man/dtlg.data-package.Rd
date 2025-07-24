@@ -8,6 +8,14 @@
 \description{
 A set of datasets to support benchmarking with the package dtlg.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://ascentsoftware.github.io/dtlg.data/}
+  \item Report bugs at \url{https://github.com/AscentSoftware/dtlg.data/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Ramiro Magno \email{ramiro.morgado@ascent.io} (\href{https://orcid.org/0000-0001-5226-3441}{ORCID})
 
