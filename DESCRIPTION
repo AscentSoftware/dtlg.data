@@ -35,3 +35,4 @@ Suggests:
     random.cdisc.data
 Depends: 
     R (>= 3.5)
+Config/Needs/website: rmarkdown, ascentsoftware/ascentdown
